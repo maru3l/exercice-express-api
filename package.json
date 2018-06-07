@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/maru3l/exercice-express-api/issues"
   },
-  "homepage": "https://github.com/maru3l/exercice-express-api#readme"
+  "homepage": "https://github.com/maru3l/exercice-express-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "nodemon": "^1.17.5"
+  }
 }
